@@ -1,0 +1,24 @@
+{
+  "name": "server-house-bell",
+  "version": "1.0.0",
+  "description": "Servidor que vai informar a um dispositivo móvel, através do OneSignal, que há alguém tocando a campainha.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rezende123/server-house-bell.git"
+  },
+  "keywords": [
+    "server",
+    "onesignal",
+    "node"
+  ],
+  "author": "Felipe Rezende",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rezende123/server-house-bell/issues"
+  },
+  "homepage": "https://github.com/Rezende123/server-house-bell#readme"
+}
